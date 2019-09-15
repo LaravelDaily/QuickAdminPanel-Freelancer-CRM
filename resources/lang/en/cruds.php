@@ -66,8 +66,8 @@ return [
         ],
     ],
     'clientManagementSetting' => [
-        'title'          => 'Client management settings',
-        'title_singular' => 'Client management settings',
+        'title'          => 'Settings',
+        'title_singular' => 'Settings',
     ],
     'currency'                => [
         'title'          => 'Currencies',
