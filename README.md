@@ -1,4 +1,4 @@
-# Laravel 6 project for managing freelance projects, notes and income
+# Laravel 8 project for managing freelance projects, notes and income
 
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
 
